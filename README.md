@@ -1,2 +1,3 @@
 # Chat_bot
-## Run the final project
+## Run the Demo which is in finalproject
+### The chat bot can talk with users a little bit and answers some questions about stack by calling API
